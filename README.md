@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanisha-Github
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and AWS.
+- 👀 Coding in Python (for now).
+- 🌱 Python and AWS.
 - 💞️ I’m looking to collaborate with anyone. 
 - 📫 How to reach me: Instagram - @tanisha_francis
 
